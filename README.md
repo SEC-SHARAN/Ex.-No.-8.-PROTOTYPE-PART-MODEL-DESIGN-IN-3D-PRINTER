@@ -49,8 +49,8 @@
 ![Screenshot 2025-04-17 162139](https://github.com/user-attachments/assets/e0f77901-d45f-4921-83a2-7f9dd9ccbb58)
 ![Screenshot 2025-04-17 162155](https://github.com/user-attachments/assets/36ec0b91-2d39-473d-b307-2998bdb6cba4)
 
-### Name: VISHWA V
-### Register Number: 212224110062
+### Name: SHARAN S
+### Register Number: 212224040309
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
